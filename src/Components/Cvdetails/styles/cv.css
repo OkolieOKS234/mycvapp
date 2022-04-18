@@ -1,0 +1,64 @@
+/* general section on Cv  */
+.Cvdetails {
+  margin: 0px;
+}
+
+.experience {
+  /* display: flex; */
+  justify-content: space-evenly;
+}
+/* top section of userbiodata  */
+.userbiodata {
+  /* margin: 2px 20px 10px; */
+  background: #2980b9; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffffff,
+    #6dd5fa,
+    #2980b9
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffffff,
+    #6dd5fa,
+    #2980b9
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+}
+span {
+  font-weight: 900;
+  text-decoration: underline;
+}
+li {
+  text-align: center;
+}
+/* end of user biodata */
+
+.education_experience {
+  margin: 2px;
+  align-content: center;
+  position: relative;
+
+  /* width: 50%; */
+}
+.educational_back {
+  border: 2px solid black;
+  position: relative;
+  text-align: center;
+}
+/* practical_experience */
+.practical_experience {
+  text-align: center;
+}
+h1 {
+  margin: 0px;
+}
+.skills {
+  text-align: center;
+}
+@media (min-width: 600px) {
+  .practical_experience {
+    text-align: center;
+    padding: 20px;
+  }
+}
