@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mycvapp/static/css/main.4c9962b2.css",
+    "main.js": "/mycvapp/static/js/main.aa8b08e9.js",
+    "index.html": "/mycvapp/index.html",
+    "main.4c9962b2.css.map": "/mycvapp/static/css/main.4c9962b2.css.map",
+    "main.aa8b08e9.js.map": "/mycvapp/static/js/main.aa8b08e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c9962b2.css",
+    "static/js/main.aa8b08e9.js"
+  ]
+}
